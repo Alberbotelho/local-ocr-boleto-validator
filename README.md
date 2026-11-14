@@ -92,6 +92,8 @@ Como o projeto é puramente *frontend*, não exige servidores web (Apache, Nginx
 This project is open-source and free to use, modify, and adapt for internal operations or personal projects.  
 Este projeto é aberto e de uso livre para adaptações e melhorias em operações internas ou projetos pessoais.
 
+📖 **Documentação Técnica:** Confira os detalhes de arquitetura, regras de negócio e histórico de evolução em [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
+
 <p align="center">
   <a href="https://alberbotelho.github.io/local-ocr-boleto-validator/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-Acessar_Validador-10b981?style=for-the-badge" alt="Live Demo">
